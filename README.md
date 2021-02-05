@@ -1,4 +1,4 @@
-# LA County - Our Children First Skipper
+# LA County - "Our Children First" Orientation Skipper
 Skip the "unskippable" videos and reveal answers to all questions
 
 http://ww2.lacourt.org/ourChildrenFirst
